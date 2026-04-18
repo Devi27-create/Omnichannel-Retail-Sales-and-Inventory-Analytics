@@ -1,0 +1,52 @@
+store_id,city,store_type
+STORE000,Delhi,Warehouse Store
+STORE001,Ahmedabad,Mall
+STORE002,Jaipur,Warehouse Store
+STORE003,Hyderabad,High Street
+STORE004,Pune,High Street
+STORE005,Delhi,Mall
+STORE006,Kolkata,Mall
+STORE007,Mumbai,Mall
+STORE008,Hyderabad,Warehouse Store
+STORE009,Kolkata,Warehouse Store
+STORE010,Chennai,Mall
+STORE011,Ahmedabad,Mall
+STORE012,Chennai,Warehouse Store
+STORE013,Delhi,Mall
+STORE014,Chennai,High Street
+STORE015,Bangalore,Mall
+STORE016,Kolkata,Mall
+STORE017,Pune,High Street
+STORE018,Delhi,High Street
+STORE019,Pune,Warehouse Store
+STORE020,Mumbai,High Street
+STORE021,Chennai,Mall
+STORE022,Hyderabad,High Street
+STORE023,Kolkata,Warehouse Store
+STORE024,Hyderabad,Mall
+STORE025,Jaipur,High Street
+STORE026,Kolkata,Warehouse Store
+STORE027,Pune,High Street
+STORE028,Jaipur,High Street
+STORE029,Hyderabad,High Street
+STORE030,Delhi,High Street
+STORE031,Hyderabad,Warehouse Store
+STORE032,Chennai,Mall
+STORE033,Ahmedabad,Mall
+STORE034,Pune,Warehouse Store
+STORE035,Delhi,High Street
+STORE036,Pune,Warehouse Store
+STORE037,Kolkata,High Street
+STORE038,Jaipur,Warehouse Store
+STORE039,Jaipur,Warehouse Store
+STORE040,Mumbai,Warehouse Store
+STORE041,Bangalore,Warehouse Store
+STORE042,Delhi,Mall
+STORE043,Chennai,Warehouse Store
+STORE044,Jaipur,Mall
+STORE045,Mumbai,High Street
+STORE046,Hyderabad,Warehouse Store
+STORE047,Kolkata,Warehouse Store
+STORE048,Bangalore,Mall
+STORE049,Pune,High Street
+ONLINE,N/A,Online
