@@ -14,3 +14,6 @@ Zaky : Did little process to import cleaned dataset to sql
 
 2026-04-18
 Zaky : Conducted rough analysis using sql
+
+2026-04-21
+Smita : Corrected change_qty logic in inventory movements (data issue)
