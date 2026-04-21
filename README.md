@@ -9,5 +9,8 @@ Zaky : reformated date column, filled nan in ord.store_id, and normalized inv_mo
 2026-04-18
 Smita : Added data engineering and validation logic
 
+2026-04-19
+Zaky : Did little process to import cleaned dataset to sql
+
 2026-04-18
 Zaky : Conducted rough analysis using sql
