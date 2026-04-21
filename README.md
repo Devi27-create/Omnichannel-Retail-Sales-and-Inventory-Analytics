@@ -19,4 +19,4 @@ Zaky : Conducted rough analysis using sql
 Smita : Corrected change_qty logic in inventory movements (data issue)
 
 2026-04-21
-Smita : Corrected change_qty logic in inventory movements (data issue)
+Smita : Updated notebook with the change_qty logic in inventory movements
