@@ -20,3 +20,6 @@ Smita : Corrected change_qty logic in inventory movements (data issue)
 
 2026-04-21
 Smita : Updated notebook with the change_qty logic in inventory movements
+
+2026-04-24
+Smita : Added SQL KPIs queries and built a dashboard and discussed changes
