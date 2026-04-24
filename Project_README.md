@@ -13,10 +13,10 @@ The goal is to:
 - 
 ## Tech Stack
 
-- Python (Pandas, NumPy) → Data cleaning & preprocessing
-- SQL → Data modeling & analysis
-- Power BI → Dashboard & visualization
-- Git & GitHub → Version control
+- Python (Pandas, NumPy): Data cleaning & preprocessing
+- SQL: Data modeling & analysis
+- Power BI: Dashboard & visualization
+- Git & GitHub:  Version control
 
 ## Dataset Description
 
