@@ -91,8 +91,8 @@ Star schema design:
 - Zero Change Quantity Records: Identified and cleaned during preprocessing
 
 ## How to Run the Project
-# Clone repository
+### Clone repository
 `git clone <your-repo-link>`
 
-# Open notebook
+### Open notebook
 `Omnichannel_retail_sales_and_inventory.ipynb`
