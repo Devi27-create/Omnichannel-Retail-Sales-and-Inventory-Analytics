@@ -40,12 +40,12 @@ The project uses multiple relational datasets:
 - Fixed inventory movement logic (positive/negative quantities)
 - Created derived columns (revenue, order_year, order_month)
 
-2. Data Validation
+**2. Data Validation**
 - Primary Key checks (uniqueness)
 - Foreign Key checks (no orphan records)
 - Data type standardization
   
-3. Data Engineering
+**3. Data Engineering**
 - Revenue calculation (quantity × price)
 - Time-based features (Year, Month)
 - Inventory normalization (stock movement logic)
