@@ -23,3 +23,6 @@ Smita : Updated notebook with the change_qty logic in inventory movements
 
 2026-04-24
 Smita : Added SQL KPIs queries and built a dashboard and discussed changes
+
+2026-04-29
+Zaky : Refined, enriched, and styled initial power bi dashboard. working on remaining last page (customer base).
