@@ -10,7 +10,7 @@ The goal is to:
 - Track inventory movements and stock levels
 - Analyze customer behavior and retention
 - Build a scalable data model for business intelligence
-- 
+  
 ## Tech Stack
 
 - Python (Pandas, NumPy): Data cleaning & preprocessing
@@ -30,6 +30,8 @@ The project uses multiple relational datasets:
 - inventory_movements: Stock inflow/outflow
 - stores: Store metadata
 - warehouses: Warehouse capacity & location
+
+Data Relationship Diagram: [Alt][https://github.com/Devi27-create/Omnichannel-Retail-Sales-and-Inventory-Analytics/blob/main/Omnichannel%20retail%20inventory%20realtionship%20diagram.jpg]
 
 ## Data Pipeline
 **1. Data Cleaning (Python)**
