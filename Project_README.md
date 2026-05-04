@@ -31,7 +31,7 @@ The project uses multiple relational datasets:
 - stores: Store metadata
 - warehouses: Warehouse capacity & location
 
-![Data Relationship Diagram][https://github.com/Devi27-create/Omnichannel-Retail-Sales-and-Inventory-Analytics/blob/main/Omnichannel%20retail%20inventory%20realtionship%20diagram.jpg]
+![Data Relationship Diagram](https://github.com/Devi27-create/Omnichannel-Retail-Sales-and-Inventory-Analytics/blob/main/Omnichannel%20retail%20inventory%20realtionship%20diagram.jpg)
 
 ## Data Pipeline
 **1. Data Cleaning (Python)**
