@@ -29,3 +29,7 @@ Zaky : Refined, enriched, and styled initial power bi dashboard. working on rema
 
 2026-05-04
 Smita : uploaded the data relationship diagram, changed the position of logbook file with project readme file
+
+2026-05-06
+Zaky : Refined dashboard specifically last page display (styling customer base page).
+
