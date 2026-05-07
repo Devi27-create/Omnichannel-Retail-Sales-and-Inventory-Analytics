@@ -33,3 +33,6 @@ Smita : uploaded the data relationship diagram, changed the position of logbook 
 2026-05-06
 Zaky : Refined dashboard specifically last page display (styling customer base page).
 
+2026-05-07
+Zaky : Refined colour palatte selection on dashboard charts
+
