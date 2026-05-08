@@ -36,3 +36,9 @@ Zaky : Refined dashboard specifically last page display (styling customer base p
 2026-05-07
 Zaky : Refined colour palatte selection on dashboard charts
 
+2026-05-07
+Smita : Refined the colour tones in the dashboard
+
+2026-05-08
+Zaky : Rearranged folders and files, Syncronized data path on codes, add dashboard captured
+
