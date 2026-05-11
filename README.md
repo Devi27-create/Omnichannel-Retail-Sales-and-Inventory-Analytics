@@ -121,7 +121,7 @@ Operational monitoring for inventory and warehouse management.
 Advanced customer behavior analysis.
 
 **Features**
-- Customer Lifetime Value (CLV)
+- Average Customer Lifetime Value (CLV)
 - Customer Segmentation
 - Retention %
 - Repeat Rate %
