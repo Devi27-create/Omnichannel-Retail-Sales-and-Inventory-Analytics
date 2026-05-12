@@ -42,3 +42,8 @@ Smita : Refined the colour tones in the dashboard
 2026-05-08
 Zaky : Rearranged folders and files, Syncronized data path on codes, add dashboard captured
 
+2026-05-11
+Smita : Created a folder and arranged the files. deleated the duplicates files and updated readme
+
+2026-05-12
+Smita : Updated readme
