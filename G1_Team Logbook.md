@@ -47,3 +47,6 @@ Smita : Created a folder and arranged the files. deleated the duplicates files a
 
 2026-05-12
 Smita : Updated readme
+
+2026-05-15
+Zaky : Make ppt as data analysis full workflow summary including 5 key insight elaboration.
